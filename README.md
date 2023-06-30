@@ -1,4 +1,4 @@
-I'm a teacher (web development etc.) and PhD student (Self-regulated Learning, Personal Learning Environments, and Systems Theory).
+Linux System Administrator and Web Developer.
 
 Connect on:
 
